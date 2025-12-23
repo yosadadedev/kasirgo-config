@@ -1,7 +1,7 @@
 {
   "android": {
-    "minBuild": 9,
-    "latestBuild": 9,
+    "minBuild": 10,
+    "latestBuild": 10,
     "force": false,
     "message": "Kami merilis versi terbaru KasirGo dengan fitur baru dan perbaikan penting. Update sekarang untuk pengalaman kasir yang lebih lancar."
   }
