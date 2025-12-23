@@ -1,0 +1,8 @@
+{
+  "android": {
+    "minBuild": 9,
+    "latestBuild": 9,
+    "force": false,
+    "message": "Versi baru aplikasi tersedia dengan fitur dan perbaikan terbaru."
+  }
+}
