@@ -1,8 +1,8 @@
 {
   "android": {
-    "minBuild": 11,
-    "latestBuild": 11,
+    "minBuild": 13,
+    "latestBuild": 13,
     "force": false,
-    "message": "Kami merilis versi terbaru KasirGo dengan fitur baru dan perbaikan penting. Update sekarang untuk pengalaman kasir yang lebih lancar."
+    "message": "Update KasirGo v1.8.0 tersedia 🚀\nKini Anda bisa edit & hapus transaksi dengan riwayat perubahan, serta memfilter laporan berdasarkan status transaksi.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
   }
 }
