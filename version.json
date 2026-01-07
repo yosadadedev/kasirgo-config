@@ -3,6 +3,6 @@
     "minBuild": 15,
     "latestBuild": 15,
     "force": false,
-    "message": "Update KasirGo v1.9.1 tersedia 🚀\n\nKini Anda bisa Backup Lokal (File): Membuat file backup .json dan berbagi ke Google Drive/Files.\nPulihkan Data: Unggah file backup dari Onboarding atau Menu Awal.\nPerbaikan orientasi perangkat: Tampilan POS mendukung mode landscape untuk menampilkan 4 item sejajar dan layout item produk responsif.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
+    "message": "Update KasirGo v1.9.1 tersedia 🚀\n\n1. Kini Anda bisa Backup Lokal (File): Membuat file backup .json dan berbagi ke Google Drive/Files.\n2. Pulihkan Data: Unggah file backup dari Onboarding atau Menu Awal.\n3. Perbaikan orientasi perangkat: Tampilan POS mendukung mode landscape untuk menampilkan 4 item sejajar dan layout item produk responsif.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
   }
 }
