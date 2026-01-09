@@ -1,8 +1,8 @@
 {
   "android": {
-    "minBuild": 16,
-    "latestBuild": 16,
+    "minBuild": 18,
+    "latestBuild": 18,
     "force": false,
-    "message": "Update KasirGo v1.9.2 tersedia 🚀\n\n1. Kini Anda bisa Backup Lokal (File): Membuat file backup .json dan berbagi ke Google Drive/Files.\n2. Pulihkan Data: Unggah file backup dari Onboarding atau Menu Awal.\n3. Perbaikan bug pada fitur pilih metode pembayaran.\n4. Perbaikan orientasi perangkat: Tampilan POS mendukung mode landscape untuk menampilkan 4 item sejajar dan layout item produk responsif.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
+    "message": "Update KasirGo v1.9.3 tersedia 🚀\n\n1. Format Transaksi & Tanggal: Penomoran transaksi baru dan format tanggal lengkap (Tgl Bulan Tahun Jam).\n2. Tampilan QRIS: Fitur perbesar (zoom) kode QRIS untuk kemudahan pembayaran.\n3. Perbaikan bug pada fitur pilih metode pembayaran.\n3.Pengingat Backup: Notifikasi rutin untuk mengingatkan backup data penting.n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
   }
 }
