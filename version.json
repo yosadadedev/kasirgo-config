@@ -1,8 +1,8 @@
 {
   "android": {
-    "minBuild": 18,
-    "latestBuild": 18,
+    "minBuild": 20,
+    "latestBuild": 20,
     "force": false,
-    "message": "Update KasirGo v1.9.3 tersedia 🚀\n\n1. Format Transaksi & Tanggal: Penomoran transaksi baru dan format tanggal lengkap (Tgl Bulan Tahun Jam).\n2. Tampilan QRIS: Fitur perbesar (zoom) kode QRIS untuk kemudahan pembayaran.\n3. Perbaikan bug pada fitur pilih metode pembayaran.\n3.Pengingat Backup: Notifikasi rutin untuk mengingatkan backup data penting.n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
+    "message": "Update KasirGo v1.9.4 tersedia 🚀\n\n1. Perbaikan Stabilitas QRIS: Mengatasi crash saat memperbesar kode QRIS .\n2. Optimalisasi Pengingat Backup: Penyesuaian prioritas notifikasi backup untuk pengguna baru agar tidak tumpang tindih dengan pesan setup.\n3. Peningkatan UI: Pembaruan tampilan tombol pada dialog pengaturan frekuensi backup.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
   }
 }
