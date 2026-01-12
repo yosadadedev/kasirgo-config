@@ -1,8 +1,8 @@
 {
   "android": {
-    "minBuild": 20,
-    "latestBuild": 20,
+    "minBuild": 21,
+    "latestBuild": 21,
     "force": false,
-    "message": "Update KasirGo v1.9.4 tersedia 🚀\n\n1. Perbaikan Stabilitas QRIS: Mengatasi crash saat memperbesar kode QRIS .\n2. Optimalisasi Pengingat Backup: Penyesuaian prioritas notifikasi backup untuk pengguna baru agar tidak tumpang tindih dengan pesan setup.\n3. Peningkatan UI: Pembaruan tampilan tombol pada dialog pengaturan frekuensi backup.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
+    "message": "Update KasirGo v1.9.5 tersedia 🚀\n\n1. Hapus Fitur Pengingat Backup: Menghilangkan notifikasi dan UI pengingat backup otomatis untuk pengalaman yang lebih ringkas.n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat."
   }
 }
