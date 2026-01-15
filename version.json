@@ -3,7 +3,7 @@
     "minBuild": 22,
     "latestBuild": 22,
     "force": false,
-    "message": "Update KasirGo v1.9.6 tersedia 🚀\n\n1.Laporan Export: Penambahan kolom dan keterangan Diskon pada export transaksi.\n2. Dukungan Pengembangan: Penambahan opsi dukung developer di aplikasi.\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat.",
+    "message": "Update KasirGo v1.9.6 tersedia 🚀\n\n1.Laporan Export: Penambahan kolom dan keterangan Diskon pada export transaksi.\n2. Dukungan Pengembangan: Penambahan opsi dukung developer di aplikasi.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat.",
     "features": {
       "ads": {
         "enabled": false
