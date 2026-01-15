@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 21,
-    "latestBuild": 21,
+    "minBuild": 22,
+    "latestBuild": 22,
     "force": false,
-    "message": "Update KasirGo v1.9.5 tersedia 🚀\n\n1. Hapus Fitur Pengingat Backup: Menghilangkan notifikasi dan UI pengingat backup otomatis untuk pengalaman yang lebih ringkas.n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat.",
+    "message": "Update KasirGo v1.9.6 tersedia 🚀\n\n1.Laporan Export: Penambahan kolom dan keterangan Diskon pada export transaksi.\n2. Dukungan Pengembangan: Penambahan opsi dukung developer di aplikasi.\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat.",
     "features": {
       "ads": {
         "enabled": false
