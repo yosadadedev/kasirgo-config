@@ -2,7 +2,7 @@
   "android": {
     "minBuild": 27,
     "latestBuild": 27,
-    "force": false,
+    "force": true,
     "message": "Update KasirGo v1.9.7 tersedia 🚀\n\n1. Perbaikan bug: transaksi sebagian pengguna lama gagal tersimpan.\n2. Peningkatan keandalan database transaksi: mencegah transaksi hilang saat aplikasi ditutup atau saat terjadi benturan ID pada akun lama .\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat.",
     "features": {
       "ads": {
