@@ -7,7 +7,7 @@
     "features": {
       "ads": {
         "enabled": false
-      },
+      }
     }
   }
 }
