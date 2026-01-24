@@ -3,7 +3,7 @@
     "minBuild": 27,
     "latestBuild": 27,
     "force": false,
-    "message": "Update KasirGo v1.9.7 tersedia 🚀\n\n1. Perbaikan bug: transaksi sebagian pengguna lama gagal tersimpan.\n2. Peningkatan keandalan database transaksi: mencegah transaksi hilang saat aplikasi ditutup atau saat terjadi benturan ID pada akun lama .\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat.",
+    "message": "Update KasirGo v1.9.8 tersedia 🚀\n\n1. Kirim Struk: Fitur berbagi struk transaksi secara digital kepada pelanggan.\n2. Kustomisasi Struk: Pengaturan visibilitas pajak dan metode pembayaran pada pengaturan printer.\n3. Info Pro: Pemberitahuan mengenai fitur KasirGo Pro yang akan segera hadir.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat.",
     "features": {
       "ads": {
         "enabled": false
