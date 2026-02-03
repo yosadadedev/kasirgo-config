@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 34,
-    "latestBuild": 34,
+    "minBuild": 43,
+    "latestBuild": 43,
     "force": false,
-    "message": "Update KasirGo v1.9.9 tersedia 🚀\n\n1. KasirGo Pro: Nikmati fitur premium termasuk Produk Tanpa Batas, Laporan Lengkap, Struk Custom, Backup Data, dan Bebas Iklan dengan biaya yang sangat terjangkau.\n\nUpdate sekarang untuk pengelolaan kasir yang lebih akurat.",
+    "message": "Update KasirGo v1.10.0 tersedia 🚀\n\n1. Generate Barcode: Tambahan fitur generate barcode otomatis (EAN13) dan cetak label fisik barcode saat menambah atau mengedit produk.\n2. Scan Barcode: Peningkatan posisi dan desain tombol scan barcode untuk akses transaksi yang lebih cepat.",
     "features": {
       "ads": {
         "enabled": false
