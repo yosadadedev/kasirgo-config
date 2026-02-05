@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 43,
-    "latestBuild": 43,
+    "minBuild": 46,
+    "latestBuild": 46,
     "force": false,
-    "message": "Update KasirGo v1.10.0 tersedia 🚀\n\n1. Generate Barcode: Tambahan fitur generate barcode otomatis (EAN13) dan cetak label fisik barcode saat menambah atau mengedit produk.\n2. Scan Barcode: Peningkatan posisi dan desain tombol scan barcode untuk akses transaksi yang lebih cepat.",
+    "message": "Update KasirGo v1.11.0 tersedia 🚀\n\n1.  Perbaikan Scanner: Mengatasi kendala pada fitur scan barcode.\n2. Fitur Prioritas: Urutkan produk dan kategori penting di posisi teratas dengan opsi Prioritas.",
     "features": {
       "ads": {
         "enabled": false
