@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 55,
-    "latestBuild": 55,
+    "minBuild": 56,
+    "latestBuild": 56,
     "force": false,
-    "message": "Update KasirGo v2.0.1 tersedia 🚀\n\n1. Akun KasirGo: Sekarang Anda bisa membuat akun dengan email sehingga data usaha tidak hanya tersimpan di HP, tetapi juga terhubung ke akun pribadi.\n\n2. Backup ke Cloud: Data produk, kategori, transaksi, pelanggan, kasir, dan pengaturan dapat dibackup ke server (cloud) untuk mengurangi risiko kehilangan data.\n\n3. Perlindungan Akun: Jika akun dipakai di perangkat lain, perangkat lama akan otomatis keluar untuk mencegah pemakaian bersamaan yang tidak diinginkan. \n\n.4. Menu Profil: Pengaturan data diri (nama, email, WhatsApp) dan ubah password akun.",
+    "message": "Update KasirGo v2.0.2 tersedia 🚀\n\n1. Sinkronisasi Cloud: Perbaikan logika sync agar stok, nama produk, varian, gambar, kategori, dan pengaturan tidak kembali ke data lama setelah auto sync atau sync manual",
     "features": {
       "ads": {
         "enabled": false
