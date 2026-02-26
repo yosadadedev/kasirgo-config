@@ -1,7 +1,7 @@
 {
   "android": {
-    "minBuild": 57,
-    "latestBuild": 57,
+    "minBuild": 59,
+    "latestBuild": 59,
     "force": false,
     "message": "Update KasirGo v2.0.4 tersedia 🚀\n\n1. Filter Terpadu: Peningkatan UI/UX pada halaman Laporan dengan menggabungkan filter periode, status, dan metode pembayaran menjadi satu akses praktis dengan tampilan minimalis.\n2. Perbaikan Transaksi Duplikat: Mengatasi masalah duplikasi transaksi kosong (0 item) saat melakukan edit transaksi.\n3. Nama Kasir: Memperbaiki nama kasir yang hilang pada riwayat transaksi setelah proses sinkronisasi dan login ulang.\n\n ",
     "features": {
