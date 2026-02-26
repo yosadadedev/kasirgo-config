@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 56,
-    "latestBuild": 56,
+    "minBuild": 57,
+    "latestBuild": 57,
     "force": false,
-    "message": "Update KasirGo v2.0.2 tersedia 🚀\n\n1. Sinkronisasi Cloud: Perbaikan logika sync agar stok, nama produk, varian, gambar, kategori, dan pengaturan tidak kembali ke data lama setelah auto sync atau sync manual",
+    "message": "Update KasirGo v2.0.3 tersedia 🚀\n\n1. Perbaikan Sinkronisasi Data: Data yang dihapus (produk/kategori/transaksi) kini tersinkronisasi dengan benar dan tidak akan muncul kembali.\n2. Pengaturan Watermark: Opsi untuk menampilkan atau menyembunyikan watermak pada struk (Khusus pengguna Pro)\n\n ",
     "features": {
       "ads": {
         "enabled": false
