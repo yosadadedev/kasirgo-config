@@ -3,7 +3,7 @@
     "minBuild": 68,
     "latestBuild": 68,
     "force": false,
-    "message": "Update KasirGo v2.1.5 tersedia 🚀\n\n1.Kelola Pengeluaran: Tambah/Edit/Hapus pengeluaran di menu Manajemen → Kelola Pengeluaran. Terintegrasi ke Laporan (Total Pengeluaran & Laba Bersih).\n2. Perbaikan Logout Mendadak: Mengatasi kasus sebagian pengguna tiba-tiba logout (harap logout dulu). Sesi kini lebih stabil dan aman.\n3. Hapus Iklan: Menghilangkan seluruh integrasi iklan dari aplikasi untuk kenyamanan penggunaan dan keamanan konten.\n\n⚠️ Setelah update, silakan logout lalu login kembali agar perbaikan logout dapat bekerja dengan baik ",
+    "message": "Update KasirGo v2.1.5 tersedia 🚀\n\n1.Kelola Pengeluaran: Tambah/Edit/Hapus pengeluaran di menu Manajemen → Kelola Pengeluaran. Terintegrasi ke Laporan (Total Pengeluaran & Laba Bersih).\n2. Perbaikan Logout Mendadak: Mengatasi kasus sebagian pengguna tiba-tiba logout (harap logout dulu). Sesi kini lebih stabil dan aman.\n3. Hapus Iklan: Menghilangkan seluruh integrasi iklan dari aplikasi untuk kenyamanan penggunaan dan keamanan konten.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, silakan logout lalu login kembali agar sistem berjalan optimal.",
     "features": {
       "ads": {
         "enabled": false
