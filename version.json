@@ -7,6 +7,17 @@
     "features": {
       "ads": {
         "enabled": false
+      },
+    "promotions": {
+      "enabled": true,
+      "pos": {
+          "modal": {
+            "enabled": false,
+            "imageUrl": "",
+            "linkUrl": "",
+            "dismissCooldownDays": 7
+          }
+        }
       }
     }
   }
