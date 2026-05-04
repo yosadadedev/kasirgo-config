@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 85,
-    "latestBuild": 85,
+    "minBuild": 87,
+    "latestBuild": 87,
     "force": false,
-    "message": "Update KasirGo v2.2.5 tersedia 🚀\n\n1.Perbaikan stok tak terbatas: stok unlimited tidak lagi berubah menjadi stok terbatas saat hapus/restore/edit transaksi.\n2. Perbaikan crash menu transaksi/laporan: mengatasi error saat membuka daftar transaksi ketika data item transaksi tidak valid.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.2.6 tersedia 🚀\n\n1. Perbaikan stabilitas stok: mengurangi kasus stok berubah-ubah saat penggunaan harian.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
