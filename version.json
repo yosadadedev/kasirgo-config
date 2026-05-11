@@ -19,6 +19,34 @@
           "dismissCooldownDays": 7
         }
       }
+    },
+    "labs": {
+      "products": [
+        {
+          "id": "kasirgoplus",
+          "name": "KasirGo+",
+          "description": "Multi-device dan hak akses kasir/admin/owner",
+          "imageUrl": "https://play-lh.googleusercontent.com/dAEXY_-rk9UCxMaeh1hnrJg3vwoscEl7XHk5X3tqj_Cg9x7o7ZpGtnU-BiiPcd4DGbadu2KvsJCrwi7u7nq8HQ=w480-h960-rw",
+          "linkUrl": "https://play.google.com/store/apps/details?id=com.yl.kasirgoplus&hl=id",
+          "badge": "Play Store",
+          "icon": "rocket-outline",
+          "category": "Aplikasi",
+          "enabled": true,
+          "order": 1
+        },
+        {
+          "id": "rentalgo",
+          "name": "RentalGo",
+          "description": "Kelola bisnis rental/sewa lebih rapi",
+          "imageUrl": "",
+          "linkUrl": "",
+          "badge": "Segera",
+          "icon": "car-outline",
+          "category": "Aplikasi",
+          "enabled": true,
+          "order": 2
+        }
+      ]
     }
   }
 }
