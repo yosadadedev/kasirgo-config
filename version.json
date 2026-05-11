@@ -33,18 +33,6 @@
           "category": "Aplikasi",
           "enabled": true,
           "order": 1
-        },
-        {
-          "id": "rentalgo",
-          "name": "RentalGo",
-          "description": "Kelola bisnis rental/sewa lebih rapi",
-          "imageUrl": "",
-          "linkUrl": "",
-          "badge": "Segera",
-          "icon": "car-outline",
-          "category": "Aplikasi",
-          "enabled": true,
-          "order": 2
         }
       ]
     }
