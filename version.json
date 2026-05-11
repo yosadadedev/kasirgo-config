@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 87,
-    "latestBuild": 87,
+    "minBuild": 89,
+    "latestBuild": 89,
     "force": false,
-    "message": "Update KasirGo v2.2.6 tersedia 🚀\n\n1. Perbaikan stabilitas stok: mengurangi kasus stok berubah-ubah saat penggunaan harian.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.2.7 tersedia 🚀\n\n1. Perbaikan stabilitas stok: mengurangi kasus stok berubah-ubah saat penggunaan harian.\n2. Export Sekali Klik: Export sekarang bisa langsung mencakup Ringkasan Laporan dan Detail Transaksi dalam satu file (PDF/Excel/CSV).\n3. Struk Bisa Diunduh: Tambahan tombol Download Struk setelah transaksi berhasil untuk menyimpan struk ke perangkat.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
