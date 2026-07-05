@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 89,
-    "latestBuild": 89,
+    "minBuild": 97,
+    "latestBuild": 97,
     "force": false,
-    "message": "Update KasirGo v2.2.7 tersedia 🚀\n\n1. Perbaikan stabilitas stok: mengurangi kasus stok berubah-ubah saat penggunaan harian.\n2. Export Sekali Klik: Export sekarang bisa langsung mencakup Ringkasan Laporan dan Detail Transaksi dalam satu file (PDF/Excel/CSV).\n3. Struk Bisa Diunduh: Tambahan tombol Download Struk setelah transaksi berhasil untuk menyimpan struk ke perangkat.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.4.1 tersedia 🚀\n\n1. Struk Dapur: Tambahan opsi cetak Struk Dapur langsung dari hasil transaksi.\n2. Detail Transaksi: Tampilan detail transaksi kini lebih lengkap dan interaktif, dengan aksi cepat untuk cetak struk kasir, cetak struk dapur, kirim WhatsApp, download struk, edit, dan hapus transaksi.\n\n⚠️ Pastikan data sudah dibackup atau disinkronkan sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
