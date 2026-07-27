@@ -33,6 +33,18 @@
           "category": "Aplikasi",
           "enabled": true,
           "order": 1
+        },
+        {
+          "id": "rentalgo",
+          "name": "RentalGo",
+          "description": "Kasir dan Manajemen Rental",
+          "imageUrl": "https://play-lh.googleusercontent.com/7eDBEOJL5Yg-Ko42F6npe1Av-7gipL2ud4l11G1TM28-km_HAKtZOPbLCQNYnYTDEfUgjA5lhc8_4VJB3chSHA=w240-h480-rw",
+          "linkUrl": "https://play.google.com/store/apps/details?id=com.yl.rentalgo",
+          "badge": "Play Store",
+          "icon": "rocket-outline",
+          "category": "Aplikasi",
+          "enabled": true,
+          "order": 1
         }
       ]
     }
