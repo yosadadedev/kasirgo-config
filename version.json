@@ -3,7 +3,7 @@
     "minBuild": 99,
     "latestBuild": 99,
     "force": false,
-    "message": "Update KasirGo v2.4.4 tersedia 🚀\n\n1. Perbaikan Laporan: Kalkulasi Laba Bersih, Laba Kotor, Total Modal, dan Modal Terjual kini lebih akurat serta menampilkan rincian.\n2. erbaikan Poin Pelanggan: Poin loyalitas kini selalu terakumulasi ke pelanggan yang tepat, mencegah poin salah masuk ke pelanggan lain.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.4.4 tersedia 🚀\n\n1. Perbaikan Laporan: Kalkulasi Laba Bersih, Laba Kotor, Total Modal, dan Modal Terjual kini lebih akurat serta menampilkan rincian.\n2. Perbaikan Poin Pelanggan: Poin loyalitas kini selalu terakumulasi ke pelanggan yang tepat, mencegah poin salah masuk ke pelanggan lain.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
