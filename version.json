@@ -3,7 +3,7 @@
     "minBuild": 106,
     "latestBuild": 106,
     "force": false,
-    "message": "Update KasirGo v2.4.7 tersedia 🚀\n\n1. Scan Barcode Tambah Produk: Sekarang Anda bisa scan barcode langsung saat menambah produk baru.\n\n2. Perbaikan Download Struk: Tombol download struk kini berjalan normal kembali.\n\n3. Perbaikan Tampilan Varian di Struk: Rincian harga produk + varian kini tampil jelas di semua jenis struk agar pelanggan tidak bingung asal-usul total harga.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Setelah update selesai, Jika ditemukan data yang hilang atau bermasalah, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.4.7 tersedia 🚀\n\n1. Scan Barcode Tambah Produk: Sekarang Anda bisa scan barcode langsung saat menambah produk baru.\n\n2. Perbaikan Download Struk: Tombol download struk kini berjalan normal kembali.\n\n3. Perbaikan Tampilan Varian di Struk: Rincian harga produk + varian kini tampil jelas di semua jenis struk agar pelanggan tidak bingung asal-usul total harga.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Jika ditemukan kendala, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
