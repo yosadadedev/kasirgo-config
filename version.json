@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 112,
-    "latestBuild": 112,
+    "minBuild": 115,
+    "latestBuild": 115,
     "force": false,
-    "message": "Update KasirGo v2.4.10 tersedia 🚀\n\n1.Perbaikan Download Struk: Perbaikan izin galeri di semua tipe HP Android (termasuk Android 11 ke bawah).\n\n2. Tambah Kolom Catatan di File Export Laporan: Sheet Transaksi di file Excel (XLSX) dan CSV sekarang punya 2 kolom baru yaitu Catatan Pesanan dan Catatan Item.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Jika ditemukan kendala, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.5.0 tersedia 🚀\n\n1. Riwayat Pergerakan Stok: Lihat riwayat lengkap perubahan stok tiap produk (jual, edit, batal, penyesuaian) langsung dari halaman Kelola Produk.\n\n2. Penyesuaian Stok Lebih Jelas: Tombol Sesuaikan Stok kini pakai pilihan Tambah/Kurangi yang jelas, mengurangi risiko salah input jumlah.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Jika ditemukan kendala, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
