@@ -3,7 +3,7 @@
     "minBuild": 120,
     "latestBuild": 120,
     "force": false,
-    "message": "Halo Rekan-rekan! Ada kendala di update v2.5.3: tombol Proses Pembayaran kadang tidak muncul di Checkout.\n\nKalau Anda TIDAK mengalami kendala ini, abaikan pesan ini — tidak perlu melakukan apa-apa.\n\nKalau Anda mengalami kendala ini, mohon lakukan langkah berikut:\n1️⃣ Pengaturan → pastikan Sinkronisasi Cloud berhasil (biar data aman)\n2️⃣ Uninstall KasirGo\n3️⃣ Install ulang dari Play Store\n4️⃣ Login akun yang sama → data otomatis kembali\n\nMohon maaf atas ketidaknyamanannya, perbaikan sedang kami kebut 🙏",
+    "message": "Halo Rekan-rekan! Ada kendala di update v2.5.3: tombol Proses Pembayaran kadang tidak muncul di Checkout.\n\nKalau Anda TIDAK mengalami kendala ini, abaikan pesan ini — tidak perlu melakukan apa-apa.\n\nKalau Anda mengalami kendala ini, mohon lakukan langkah berikut:\n1️⃣ Pengaturan → pastikan Klik Sinkronisasi Cloud berhasil (biar data aman)\n2️⃣ Uninstall KasirGo\n3️⃣ Install ulang dari Play Store\n4️⃣ Login akun yang sama → data otomatis kembali\n\nMohon maaf atas ketidaknyamanannya, perbaikan sedang kami kebut 🙏",
     "features": {
       "ads": {
         "enabled": false
