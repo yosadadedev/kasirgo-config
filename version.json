@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 117,
-    "latestBuild": 117,
+    "minBuild": 120,
+    "latestBuild": 120,
     "force": false,
-    "message": "Update KasirGo v2.5.2 tersedia 🚀\n\n1. Dukungan Satuan Produk: Tambahkan satuan produk (Pcs, Kg, Gram, atau satuan custom).\n\n2.Optimasi Sinkronisasi: Proses sinkronisasi cloud kini lebih cepat dan stabil.\n\n3. Perbaikan Ubah Stok Tak Terbatas ke Terbatas.\n\n⚠️ Disarankan data disinkronkan dahulu sebelum melakukan update. Jika ditemukan kendala, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Halo Kasirian! Ada kendala di update v2.5.3: tombol Proses Pembayaran kadang tidak muncul di Checkout.\n\nKalau Anda TIDAK mengalami kendala ini, abaikan pesan ini — tidak perlu melakukan apa-apa.\n\nKalau Anda mengalami kendala ini, mohon lakukan langkah berikut:\n1️⃣ Pengaturan → pastikan Sinkronisasi Cloud berhasil (biar data aman)\n2️⃣ Uninstall KasirGo\n3️⃣ Install ulang dari Play Store\n4️⃣ Login akun yang sama → data otomatis kembali\n\nMohon maaf atas ketidaknyamanannya, perbaikan sedang kami kebut 🙏",
     "features": {
       "ads": {
         "enabled": false
