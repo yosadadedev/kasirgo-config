@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 117,
-    "latestBuild": 117,
+    "minBuild": 119,
+    "latestBuild": 119,
     "force": false,
-    "message": "Halo Rekan-rekan! Ada kendala di update v2.5.3: tombol Proses Pembayaran kadang tidak muncul di Checkout.\n\nKalau Anda TIDAK mengalami kendala ini, abaikan pesan ini — tidak perlu melakukan apa-apa.\n\nKalau Anda mengalami kendala ini, mohon lakukan langkah berikut:\n1️⃣ Pengaturan → pastikan Klik Sinkronisasi Cloud berhasil (biar data aman)\n2️⃣ Uninstall KasirGo\n3️⃣ Install ulang dari Play Store\n4️⃣ Login akun yang sama → data otomatis kembali\n\nMohon maaf atas ketidaknyamanannya, perbaikan sedang kami kebut 🙏\n\n Ada kendala? hubungi admin KasirGo melalui WhatsApp 0859-1066-10011",
+    "message": "Update KasirGo v2.5.4 tersedia 🚀\n\n1.Perbaikan Transaksi Tidak Bisa Diproses: Mengatasi kasus Total pembayaran tampil Rp0 (Total ikut turun ke nilai Subtotal) pada sebagian pengguna setelah update fitur pajak, yang menyebabkan tombol Proses Pembayaran metode Tunai terkunci.\n\n2.Fitur Pajak: Rincian pajak beserta persentasenya kini tampil lengkap di semua jenis struk (cetak thermal/PDF, download gambar, kirim WhatsApp) dan ditambahkan baris Total Pajak pada export Laporan (PDF/Excel/CSV).\n\n⚠️ Jika ditemukan kendala, segera hubungi admin melalui WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
