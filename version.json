@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 119,
-    "latestBuild": 119,
+    "minBuild": 134,
+    "latestBuild": 134,
     "force": false,
-    "message": "Update KasirGo v2.5.4 tersedia 🚀\n\n1.Perbaikan Transaksi Tidak Bisa Diproses: Mengatasi kasus Total pembayaran tampil Rp0 (Total ikut turun ke nilai Subtotal) pada sebagian pengguna setelah update fitur pajak, yang menyebabkan tombol Proses Pembayaran metode Tunai terkunci.\n\n2.Fitur Pajak: Rincian pajak beserta persentasenya kini tampil lengkap di semua jenis struk (cetak thermal/PDF, download gambar, kirim WhatsApp) dan ditambahkan baris Total Pajak pada export Laporan (PDF/Excel/CSV).\n\n⚠️ Jika ditemukan kendala, segera hubungi admin melalui WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.10.1 tersedia 🚀\n\n1. Printer Struk: Tampilan struk lebih rapi dengan nominal rata kanan, kertas kosong di bawah struk kini bisa diatur di Kelola Printer.\n\n⚠️  Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
