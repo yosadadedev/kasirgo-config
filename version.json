@@ -9,7 +9,7 @@
         "enabled": false
       },
      "sync": {
-        "pullEnabled": false
+        "pullEnabled": true
       }
     },
     "promotions": {
@@ -62,7 +62,7 @@
         "enabled": false
       },
       "sync": {
-        "pullEnabled": false
+        "pullEnabled": true
       }
     },
     "promotions": {
