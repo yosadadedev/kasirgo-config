@@ -7,6 +7,9 @@
     "features": {
       "ads": {
         "enabled": false
+      },
+     "sync": {
+        "pullEnabled": false
       }
     },
     "promotions": {
@@ -57,6 +60,9 @@
     "features": {
       "ads": {
         "enabled": false
+      },
+      "sync": {
+        "pullEnabled": false
       }
     },
     "promotions": {
