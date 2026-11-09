@@ -1,9 +1,9 @@
 {
   "android": {
-    "minBuild": 134,
-    "latestBuild": 134,
+    "minBuild": 136,
+    "latestBuild": 136,
     "force": false,
-    "message": "Update KasirGo v2.10.1 tersedia 🚀\n\n1. Printer Struk: Tampilan struk lebih rapi dengan nominal rata kanan, kertas kosong di bawah struk kini bisa diatur di Kelola Printer.\n\n⚠️  Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.10.3 tersedia 🚀\n\n1. KasirGo Kini Tersedia di iOS: KasirGo sekarang bisa diunduh dan digunakan di iPhone dan iPad melalui App Store.\nLink: linktr.ee/yosadalabs\n\n2. Sinkronisasi Cloud: Optimasi proses sinkronisasi data sekarang Lebih cepat dan lebih stabil.\n\n⚠️  Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
@@ -53,10 +53,10 @@
     }
   },
   "ios": {
-    "minBuild": 133,
-    "latestBuild": 133,
+    "minBuild": 136,
+    "latestBuild": 136,
     "force": false,
-    "message": "Update KasirGo v2.10.1 tersedia 🚀\n\n1. Printer Struk: Tampilan struk lebih rapi dengan nominal rata kanan, kertas kosong di bawah struk kini bisa diatur di Kelola Printer.\n\n⚠️  Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
+    "message": "Update KasirGo v2.10.3 tersedia 🚀\n\n1. KasirGo Kini Tersedia di iOS: KasirGo sekarang bisa diunduh dan digunakan di iPhone dan iPad melalui App Store.\nLink: linktr.ee/yosadalabs\n\n2. Sinkronisasi Cloud: Optimasi proses sinkronisasi data sekarang Lebih cepat dan lebih stabil.\n\n⚠️  Setelah update selesai, jika ada kendala, saran, atau hal lain yang ingin disampaikan, jangan ragu untuk menghubungi admin via WhatsApp di +62859106610011.",
     "features": {
       "ads": {
         "enabled": false
